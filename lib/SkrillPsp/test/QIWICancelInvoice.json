@@ -1,0 +1,12 @@
+{
+  "jsonrpc" : "2.0",
+  "method" : "cancelInvoice",
+  "params" : 
+      {
+ "identification" : {
+  "transactionid" : "MerchantAssignedID",
+  "referenceid" : "905a0d1d06b895542753e118ec718935"
+ }
+    },
+  "id" : 1
+}

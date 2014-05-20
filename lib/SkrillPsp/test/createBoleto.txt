@@ -1,0 +1,64 @@
+endpoint - https://api.nextgenp.com/merchants/zmcdptfj8kv9fwhj/testchannel_envoy/envoy
+
+{
+  "jsonrpc" : "2.0",
+  "method" : "createBoleto",
+  "params" :
+  {
+    "identification" : {
+      "transactionid" : "123",
+      "customerid" : "123"
+    },
+    "payment" :{
+      "amount" : "1234",
+      "currency" : "BRL",
+      "country" : "BR",
+      "descriptor" : "descriptor"
+    },
+    "account":{
+      "fiscal_id" : "28001238938"
+    },
+    "frontend" : {
+      "language" : "EN",
+      "responseurl": "http://pancho.skrillbox.com/bernhard/response.json.php",
+      "successurl": "http://www.ibm.com",
+      "errorurl" : "http://www.google.com",
+      "cancelurl" : "http://www.yahoo.com"
+    },
+    "customer" : {
+      "name" :
+      {
+        "salutation" : "Mr",
+        "given" : "John",
+        "family" : "Doe1234#$56"
+      },
+      "address" :
+      {
+        "street" : "Karl-Liebknecht-Strasse 5",
+        "zip" : "10117",
+        "city" : "Berlin",
+        "state" : "BE",
+        "country" : "DE"
+      },
+      "contact" : {
+        "email" : "hansi_mueller123@skrill.com",
+        "mobile" : "+49 172 931 44 01",
+        "phone" : "+49 30 234 14 23",
+        "ip" : "127.0.0.1"
+      }
+    },
+    "merchant" : {
+      "key0" : "Value0",
+      "key1" : "Value1",
+      "key2" : "Value2",
+      "key3" : "Value3",
+      "key4" : "Value4",
+      "key5" : "Value5",
+      "key6" : "Value6",
+      "key7" : "Value7",
+      "key8" : "Value8",
+      "key9" : "Value9"
+    }
+  },
+  "id" : 1
+}

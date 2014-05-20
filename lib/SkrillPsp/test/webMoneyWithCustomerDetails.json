@@ -1,0 +1,59 @@
+{
+  "jsonrpc" : "2.0",
+  "method" : "createWebmoney",
+  "params" :
+  {
+    "identification" : {
+      "transactionid" : "MerchantAssignedID",
+      "customerid" : "webmoneycustomerid 123"
+    },
+    "payment" :{
+      "amount" : "101",
+      "currency" : "EUR",
+      "country" : "ru",
+      "descriptor" : "descriptor"
+    },
+    "frontend" : {
+      "language" : "EN",
+      "responseurl": "http://pancho.skrillbox.com/bernhard/response.php",
+      "successurl": "http://www.ibm.com",
+      "errorurl" : "http://www.google.com",
+      "cancelurl" : "http://www.yahoo.com"
+    },
+    "customer" : {
+      "name" :
+      {
+        "salutation" : "Mr",
+        "given" : "John",
+        "family" : "Doe"
+      },
+      "address" :
+      {
+        "street" : "webmoneybig street",
+        "zip" : "9999",
+        "city" : "Berlin",
+        "state" : "BE",
+        "country" : "DE"
+      },
+      "contact" : {
+        "email" : "hansi_mueller321@skrill.com",
+        "mobile" : "+49 172 931 44 01",
+        "phone" : "+49 30 234 14 23",
+        "ip" : "127.0.0.1"
+      }
+    },
+    "merchant" : {
+      "key0" : "Value0",
+      "key1" : "Value1",
+      "key2" : "Value2",
+      "key3" : "Value3",
+      "key4" : "Value4",
+      "key5" : "Value5",
+      "key6" : "Value6",
+      "key7" : "Value7",
+      "key8" : "Value8",
+      "key9" : "Value9"
+    }
+  },
+  "id" : 1
+}

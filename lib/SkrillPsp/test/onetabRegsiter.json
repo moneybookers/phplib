@@ -1,0 +1,85 @@
+{
+  "jsonrpc" : "2.0",
+  "method" : "onetap",
+  "params" : 
+      {
+	"identification" : {
+		"transactionid" : "MerchantAssignedID",
+		"customerid" : "customerid 12345"
+	},
+	"payment" : {
+            "amount": "1984",   
+            "currency" : "eur",
+            "descriptor" : "descriptor line",
+            "payment_methods": ["SFT", "LSR"],
+            "ondemand_max_amount" : "184",
+            "ondemand_note" : "blabla"
+        },
+       "frontend" : {
+           "amount_details" : [
+              ["184", "amount1 description"],
+              ["184", "amount2 description"],
+              ["184", "amount3 description"]
+          ],
+          "responseurl": "https://skrillbox.com/niliev/merchant/wpf_response.php",
+          "successurl": {
+             "url" : "http://pancho.skrillbox.com/bernhard/response.php",
+             "text": "Return to sample merchant",
+             "target": "4"
+          },
+         "errorurl" : {
+            "url" : "http://pancho.skrillbox.com/bernhard/response.php",
+            "target": "4"
+         },
+         "new_window_redirect": "1",
+         "language": "EN",
+         "hide_login": "1",
+         "confirmation_note": "Thanks for shopping with us",
+         "logo_url": "https://nelly.com/img/nellylogotyp_com_smal.png",
+         "rid": "123456",
+         "ext_ref_id": "AffiliateName",
+         "detail_descriptions" : [
+            ["detail description", "detail text"],
+            ["detail description", "detail text"],
+            ["detail description", "detail text"],
+            ["detail description", "detail text"],
+            ["detail description", "detail text"]
+          ]
+        },
+	"customer" : {
+		"name" : {
+			"salutation" : "Mr",
+			"title" : "Mr",
+			"firstname" : "John",
+			"lastname" : "Doe",
+			"company" : "Skrill"
+		},
+		"address" : {
+			"street" : "Karl-Liebknecht-Strasse 5",
+			"zip" : "10117",
+			"city" : "Berlin",
+			"state" : "BE",
+			"country" : "UK"
+		},
+		"contact" : {
+                        "phone" : "+49302341423",
+			"mobile" : "+49 172 931 44 01",
+			"email" : "mb654@abv.bg",
+			"ip" : "127.0.0.1"
+		}
+	},
+	"merchant" : {
+		"key0" : "Value0",
+		"key1" : "Value1",
+		"key2" : "Value2",
+		"key3" : "Value3",
+		"key4" : "Value4",
+		"key5" : "Value5",
+		"key6" : "Value6",
+		"key7" : "Value7",
+		"key8" : "Value8",
+		"key9" : "Value9"
+	}
+    },
+  "id" : 1
+}		  

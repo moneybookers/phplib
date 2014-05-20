@@ -1,0 +1,301 @@
+2014-03-05 09:30:32
+*********************
+Array
+(
+)
+---------------------
+2014-03-05 09:30:44
+*********************
+Array
+(
+)
+---------------------
+2014-03-05 09:31:54
+*********************
+Array
+(
+)
+---------------------
+2014-03-05 09:34:42
+*********************
+---------------------
+2014-03-05 09:35:57
+*********************
+---------------------
+{"identification":{"transactionid":"d4d01ce2054e3d4b36a233c62864fda5","uniqueid":"cf7827704790486fb0982d837d35440c","shortid":"7962.4369.5423","customerid":"RMIS"},"method":"skrillwallet","type":"receipt","level":0,"code":0,"message":"paid","account":{"token":"6c293a242eb94492a9bb52ed304b48dc"},"clearing":{"amount":"2200","currency":"EUR","descriptor":"descriptor line"},"processing":{"timestamp":"2014-03-05T09:35:57+00:00"},"merchant":null}2014-03-05 09:41:26
+*********************
+---------------------
+{"identification":{"transactionid":"d4d01ce2054e3d4b36a233c62864fda5","uniqueid":"6da5a3192626482aac0ed6b053b16862","shortid":"7718.4057.0080","customerid":"RMIS"},"method":"skrillwallet","type":"receipt","level":0,"code":0,"message":"paid","account":{"token":"7c9cc0cd978d4001bb33db82c1e48cd7"},"clearing":{"amount":"2200","currency":"EUR","descriptor":"descriptor line"},"processing":{"timestamp":"2014-03-05T09:41:26+00:00"},"merchant":null}2014-03-05 09:41:37
+*********************
+---------------------
+2014-03-05 11:19:51
+*********************
+---------------------
+{"identification":{"transactionid":"d4d01ce2054e3d4b36a233c62864fda5","uniqueid":"466f469d308a4d6c9fbec7239b5aad2e","shortid":"9920.9060.6143","customerid":"RMIS"},"method":"skrillwallet","type":"receipt","level":0,"code":0,"message":"paid","account":{"token":"320fddecd719418a953bd3aedbf91161"},"clearing":{"amount":"2200","currency":"EUR","descriptor":"descriptor line"},"processing":{"timestamp":"2014-03-05T11:19:51+00:00"},"merchant":null}2014-03-05 11:20:01
+*********************
+---------------------
+2014-03-05 11:20:01
+*********************
+---------------------
+2014-03-05 11:20:05
+*********************
+---------------------
+2014-03-05 11:20:21
+*********************
+---------------------
+2014-03-05 11:20:41
+*********************
+---------------------
+2014-03-05 11:21:01
+*********************
+---------------------
+2014-03-05 11:21:21
+*********************
+---------------------
+2014-03-05 11:21:41
+*********************
+---------------------
+2014-03-05 11:22:48
+*********************
+---------------------
+{"identification":{"transactionid":"d4d01ce2054e3d4b36a233c62864fda5","uniqueid":"c346c6c3da114409b16ffb6bdb0ad04a","shortid":"5784.0793.8020","customerid":"RMIS"},"method":"skrillwallet","type":"receipt","level":0,"code":0,"message":"paid","account":{"token":"9e9bd686865047e1b1fcc9dc652eda48"},"clearing":{"amount":"2200","currency":"EUR","descriptor":"descriptor line"},"processing":{"timestamp":"2014-03-05T11:22:48+00:00"},"merchant":null}2014-03-05 11:22:58
+*********************
+---------------------
+2014-03-05 11:22:59
+*********************
+---------------------
+2014-03-05 11:23:18
+*********************
+---------------------
+2014-03-05 11:23:38
+*********************
+---------------------
+2014-03-05 11:23:58
+*********************
+---------------------
+2014-03-05 11:25:21
+*********************
+---------------------
+{"identification":{"transactionid":"d4d01ce2054e3d4b36a233c62864fda5","uniqueid":"466f469d308a4d6c9fbec7239b5aad2e","shortid":"9920.9060.6143","customerid":"RMIS"},"method":"skrillwallet","type":"receipt","level":0,"code":0,"message":"paid","account":{"token":"320fddecd719418a953bd3aedbf91161"},"clearing":{"amount":"2200","currency":"EUR","descriptor":"descriptor line"},"processing":{"timestamp":"2014-03-05T11:19:51+00:00"},"merchant":null}2014-03-05 11:25:41
+*********************
+---------------------
+{"identification":{"transactionid":"d4d01ce2054e3d4b36a233c62864fda5","uniqueid":"466f469d308a4d6c9fbec7239b5aad2e","shortid":"9920.9060.6143","customerid":"RMIS"},"method":"skrillwallet","type":"receipt","level":0,"code":0,"message":"paid","account":{"token":"320fddecd719418a953bd3aedbf91161"},"clearing":{"amount":"2200","currency":"EUR","descriptor":"descriptor line"},"processing":{"timestamp":"2014-03-05T11:19:51+00:00"},"merchant":null}2014-03-05 11:26:01
+*********************
+---------------------
+{"identification":{"transactionid":"d4d01ce2054e3d4b36a233c62864fda5","uniqueid":"466f469d308a4d6c9fbec7239b5aad2e","shortid":"9920.9060.6143","customerid":"RMIS"},"method":"skrillwallet","type":"receipt","level":0,"code":0,"message":"paid","account":{"token":"320fddecd719418a953bd3aedbf91161"},"clearing":{"amount":"2200","currency":"EUR","descriptor":"descriptor line"},"processing":{"timestamp":"2014-03-05T11:19:51+00:00"},"merchant":null}2014-03-05 11:26:21
+*********************
+---------------------
+{"identification":{"transactionid":"d4d01ce2054e3d4b36a233c62864fda5","uniqueid":"466f469d308a4d6c9fbec7239b5aad2e","shortid":"9920.9060.6143","customerid":"RMIS"},"method":"skrillwallet","type":"receipt","level":0,"code":0,"message":"paid","account":{"token":"320fddecd719418a953bd3aedbf91161"},"clearing":{"amount":"2200","currency":"EUR","descriptor":"descriptor line"},"processing":{"timestamp":"2014-03-05T11:19:51+00:00"},"merchant":null}2014-03-05 11:26:41
+*********************
+---------------------
+{"identification":{"transactionid":"d4d01ce2054e3d4b36a233c62864fda5","uniqueid":"466f469d308a4d6c9fbec7239b5aad2e","shortid":"9920.9060.6143","customerid":"RMIS"},"method":"skrillwallet","type":"receipt","level":0,"code":0,"message":"paid","account":{"token":"320fddecd719418a953bd3aedbf91161"},"clearing":{"amount":"2200","currency":"EUR","descriptor":"descriptor line"},"processing":{"timestamp":"2014-03-05T11:19:51+00:00"},"merchant":null}2014-03-05 11:27:58
+*********************
+---------------------
+{"identification":{"transactionid":"d4d01ce2054e3d4b36a233c62864fda5","uniqueid":"c346c6c3da114409b16ffb6bdb0ad04a","shortid":"5784.0793.8020","customerid":"RMIS"},"method":"skrillwallet","type":"receipt","level":0,"code":0,"message":"paid","account":{"token":"9e9bd686865047e1b1fcc9dc652eda48"},"clearing":{"amount":"2200","currency":"EUR","descriptor":"descriptor line"},"processing":{"timestamp":"2014-03-05T11:22:48+00:00"},"merchant":null}2014-03-05 11:28:18
+*********************
+---------------------
+{"identification":{"transactionid":"d4d01ce2054e3d4b36a233c62864fda5","uniqueid":"c346c6c3da114409b16ffb6bdb0ad04a","shortid":"5784.0793.8020","customerid":"RMIS"},"method":"skrillwallet","type":"receipt","level":0,"code":0,"message":"paid","account":{"token":"9e9bd686865047e1b1fcc9dc652eda48"},"clearing":{"amount":"2200","currency":"EUR","descriptor":"descriptor line"},"processing":{"timestamp":"2014-03-05T11:22:48+00:00"},"merchant":null}2014-03-05 11:28:38
+*********************
+---------------------
+{"identification":{"transactionid":"d4d01ce2054e3d4b36a233c62864fda5","uniqueid":"c346c6c3da114409b16ffb6bdb0ad04a","shortid":"5784.0793.8020","customerid":"RMIS"},"method":"skrillwallet","type":"receipt","level":0,"code":0,"message":"paid","account":{"token":"9e9bd686865047e1b1fcc9dc652eda48"},"clearing":{"amount":"2200","currency":"EUR","descriptor":"descriptor line"},"processing":{"timestamp":"2014-03-05T11:22:48+00:00"},"merchant":null}2014-03-05 11:28:58
+*********************
+---------------------
+{"identification":{"transactionid":"d4d01ce2054e3d4b36a233c62864fda5","uniqueid":"c346c6c3da114409b16ffb6bdb0ad04a","shortid":"5784.0793.8020","customerid":"RMIS"},"method":"skrillwallet","type":"receipt","level":0,"code":0,"message":"paid","account":{"token":"9e9bd686865047e1b1fcc9dc652eda48"},"clearing":{"amount":"2200","currency":"EUR","descriptor":"descriptor line"},"processing":{"timestamp":"2014-03-05T11:22:48+00:00"},"merchant":null}2014-03-05 11:30:30
+*********************
+---------------------
+{"identification":{"transactionid":"d4d01ce2054e3d4b36a233c62864fda5","uniqueid":"c7f27c18cc9a451a83388c113ff92777","shortid":"0017.0715.8141","customerid":"RMIS"},"method":"skrillwallet","type":"receipt","level":0,"code":0,"message":"paid","account":{"token":"dd9a91672b0141558db5fb7365fc1ae5"},"clearing":{"amount":"2200","currency":"EUR","descriptor":"descriptor line"},"processing":{"timestamp":"2014-03-05T11:30:30+00:00"},"merchant":null}2014-03-05 11:30:41
+*********************
+---------------------
+2014-03-05 11:30:48
+*********************
+---------------------
+2014-03-05 11:31:01
+*********************
+---------------------
+2014-03-05 11:31:21
+*********************
+---------------------
+2014-03-05 11:31:41
+*********************
+---------------------
+2014-03-05 11:32:01
+*********************
+---------------------
+2014-03-05 11:32:21
+*********************
+---------------------
+2014-03-05 11:32:32
+*********************
+---------------------
+{"identification":{"transactionid":"d4d01ce2054e3d4b36a233c62864fda5","uniqueid":"d4be2c05a76549e393c6e3d947eec6e9","shortid":"8007.4641.0813","customerid":"RMIS"},"method":"skrillwallet","type":"receipt","level":0,"code":0,"message":"paid","account":{"token":"bf09651511914097b64904f6a15867d6"},"clearing":{"amount":"2200","currency":"EUR","descriptor":"descriptor line"},"processing":{"timestamp":"2014-03-05T11:32:31+00:00"},"merchant":null}2014-03-05 11:32:42
+*********************
+---------------------
+2014-03-05 11:32:43
+*********************
+---------------------
+2014-03-05 11:33:02
+*********************
+---------------------
+2014-03-05 11:33:22
+*********************
+---------------------
+2014-03-05 11:33:42
+*********************
+---------------------
+2014-03-05 11:36:01
+*********************
+---------------------
+{"identification":{"transactionid":"d4d01ce2054e3d4b36a233c62864fda5","uniqueid":"c7f27c18cc9a451a83388c113ff92777","shortid":"0017.0715.8141","customerid":"RMIS"},"method":"skrillwallet","type":"receipt","level":0,"code":0,"message":"paid","account":{"token":"dd9a91672b0141558db5fb7365fc1ae5"},"clearing":{"amount":"2200","currency":"EUR","descriptor":"descriptor line"},"processing":{"timestamp":"2014-03-05T11:30:30+00:00"},"merchant":null}2014-03-05 11:36:21
+*********************
+---------------------
+{"identification":{"transactionid":"d4d01ce2054e3d4b36a233c62864fda5","uniqueid":"c7f27c18cc9a451a83388c113ff92777","shortid":"0017.0715.8141","customerid":"RMIS"},"method":"skrillwallet","type":"receipt","level":0,"code":0,"message":"paid","account":{"token":"dd9a91672b0141558db5fb7365fc1ae5"},"clearing":{"amount":"2200","currency":"EUR","descriptor":"descriptor line"},"processing":{"timestamp":"2014-03-05T11:30:30+00:00"},"merchant":null}2014-03-05 11:36:41
+*********************
+---------------------
+{"identification":{"transactionid":"d4d01ce2054e3d4b36a233c62864fda5","uniqueid":"c7f27c18cc9a451a83388c113ff92777","shortid":"0017.0715.8141","customerid":"RMIS"},"method":"skrillwallet","type":"receipt","level":0,"code":0,"message":"paid","account":{"token":"dd9a91672b0141558db5fb7365fc1ae5"},"clearing":{"amount":"2200","currency":"EUR","descriptor":"descriptor line"},"processing":{"timestamp":"2014-03-05T11:30:30+00:00"},"merchant":null}2014-03-05 11:37:01
+*********************
+---------------------
+{"identification":{"transactionid":"d4d01ce2054e3d4b36a233c62864fda5","uniqueid":"c7f27c18cc9a451a83388c113ff92777","shortid":"0017.0715.8141","customerid":"RMIS"},"method":"skrillwallet","type":"receipt","level":0,"code":0,"message":"paid","account":{"token":"dd9a91672b0141558db5fb7365fc1ae5"},"clearing":{"amount":"2200","currency":"EUR","descriptor":"descriptor line"},"processing":{"timestamp":"2014-03-05T11:30:30+00:00"},"merchant":null}2014-03-05 11:37:21
+*********************
+---------------------
+{"identification":{"transactionid":"d4d01ce2054e3d4b36a233c62864fda5","uniqueid":"c7f27c18cc9a451a83388c113ff92777","shortid":"0017.0715.8141","customerid":"RMIS"},"method":"skrillwallet","type":"receipt","level":0,"code":0,"message":"paid","account":{"token":"dd9a91672b0141558db5fb7365fc1ae5"},"clearing":{"amount":"2200","currency":"EUR","descriptor":"descriptor line"},"processing":{"timestamp":"2014-03-05T11:30:30+00:00"},"merchant":null}2014-03-05 11:37:42
+*********************
+---------------------
+{"identification":{"transactionid":"d4d01ce2054e3d4b36a233c62864fda5","uniqueid":"d4be2c05a76549e393c6e3d947eec6e9","shortid":"8007.4641.0813","customerid":"RMIS"},"method":"skrillwallet","type":"receipt","level":0,"code":0,"message":"paid","account":{"token":"bf09651511914097b64904f6a15867d6"},"clearing":{"amount":"2200","currency":"EUR","descriptor":"descriptor line"},"processing":{"timestamp":"2014-03-05T11:32:31+00:00"},"merchant":null}2014-03-05 11:38:02
+*********************
+---------------------
+{"identification":{"transactionid":"d4d01ce2054e3d4b36a233c62864fda5","uniqueid":"d4be2c05a76549e393c6e3d947eec6e9","shortid":"8007.4641.0813","customerid":"RMIS"},"method":"skrillwallet","type":"receipt","level":0,"code":0,"message":"paid","account":{"token":"bf09651511914097b64904f6a15867d6"},"clearing":{"amount":"2200","currency":"EUR","descriptor":"descriptor line"},"processing":{"timestamp":"2014-03-05T11:32:31+00:00"},"merchant":null}2014-03-05 11:38:17
+*********************
+---------------------
+2014-03-05 11:38:22
+*********************
+---------------------
+{"identification":{"transactionid":"d4d01ce2054e3d4b36a233c62864fda5","uniqueid":"d4be2c05a76549e393c6e3d947eec6e9","shortid":"8007.4641.0813","customerid":"RMIS"},"method":"skrillwallet","type":"receipt","level":0,"code":0,"message":"paid","account":{"token":"bf09651511914097b64904f6a15867d6"},"clearing":{"amount":"2200","currency":"EUR","descriptor":"descriptor line"},"processing":{"timestamp":"2014-03-05T11:32:31+00:00"},"merchant":null}2014-03-05 11:38:42
+*********************
+---------------------
+{"identification":{"transactionid":"d4d01ce2054e3d4b36a233c62864fda5","uniqueid":"d4be2c05a76549e393c6e3d947eec6e9","shortid":"8007.4641.0813","customerid":"RMIS"},"method":"skrillwallet","type":"receipt","level":0,"code":0,"message":"paid","account":{"token":"bf09651511914097b64904f6a15867d6"},"clearing":{"amount":"2200","currency":"EUR","descriptor":"descriptor line"},"processing":{"timestamp":"2014-03-05T11:32:31+00:00"},"merchant":null}2014-03-05 11:38:48
+*********************
+---------------------
+{"identification":{"transactionid":"d4d01ce2054e3d4b36a233c62864fda5","uniqueid":"63a52e693f38437e893e9da81e7b2a3e","shortid":"1596.1749.2819","customerid":"RMIS"},"method":"skrillwallet","type":"receipt","level":0,"code":0,"message":"paid","account":{"token":"2ef47042de964a34b902ba30a604c9a1"},"clearing":{"amount":"2200","currency":"EUR","descriptor":"descriptor line"},"processing":{"timestamp":"2014-03-05T11:38:48+00:00"},"merchant":null}2014-03-13 13:35:00
+*********************
+---------------------
+2014-03-13 13:36:24
+*********************
+---------------------
+{"identification":{"transactionid":"d4d01ce2054e3d4b36a233c62864fda5","uniqueid":"a3ca7a4c552d48718da5be92373e6a06","shortid":"5833.6329.6028","customerid":"RMIS"},"method":"skrillwallet","type":"receipt","level":0,"code":0,"message":"paid","account":{"token":"2d6cec4fb33f4c10956e5888b27a88f6"},"clearing":{"amount":"2200","currency":"EUR","descriptor":"descriptor line"},"processing":{"timestamp":"2014-03-13T13:36:23+00:00"},"merchant":null}2014-03-13 13:36:29
+*********************
+---------------------
+2014-03-14 11:00:59
+*********************
+---------------------
+{"identification":{"transactionid":"d4d01ce2054e3d4b36a233c62864fda5","uniqueid":"7fab830e7aa046938ccb9fe762c6d247","shortid":"7407.1682.6067","customerid":"RMIS"},"method":"skrillwallet","type":"receipt","level":0,"code":0,"message":"paid","account":{"token":"af51d0cc33dd4756b9acfb8ad57d2e5c"},"clearing":{"amount":"2200","currency":"EUR","descriptor":"descriptor line"},"processing":{"timestamp":"2014-03-14T11:00:59+00:00"},"merchant":null}2014-03-14 11:35:46
+*********************
+---------------------
+{"identification":{"transactionid":"d4d01ce2054e3d4b36a233c62864fda5","uniqueid":"ce8dcf5c13494a64b5cd5c5d7a39e349","shortid":"9063.4421.7528","customerid":"RMIS"},"method":"skrillwallet","type":"receipt","level":0,"code":0,"message":"paid","account":{"token":"fb43539cde854364a8b0d666ea23f625"},"clearing":{"amount":"2200","currency":"EUR","descriptor":"descriptor line"},"processing":{"timestamp":"2014-03-14T11:35:46+00:00"},"merchant":null}2014-03-14 11:36:19
+*********************
+---------------------
+2014-03-14 11:39:28
+*********************
+---------------------
+{"identification":{"transactionid":"d4d01ce2054e3d4b36a233c62864fda5","uniqueid":"d7ebf2d1a49042edb1cdb54065518df7","shortid":"4813.1489.9683","customerid":"RMIS"},"method":"skrillwallet","type":"receipt","level":0,"code":0,"message":"paid","account":{"token":"8f891d7f8eb3469e9a889823541505ce"},"clearing":{"amount":"2200","currency":"EUR","descriptor":"descriptor line"},"processing":{"timestamp":"2014-03-14T11:39:27+00:00"},"merchant":null}2014-03-14 11:39:38
+*********************
+---------------------
+2014-03-14 11:39:40
+*********************
+---------------------
+2014-03-14 11:56:38
+*********************
+---------------------
+sha2sig=3E0A292CE513EE5B715479809F5D4B9699718F43167415117016447669503DD8&status=2&md5sig=4B171E1ECB7BA4C37B7A1D4904406E7F&pay_to_email=mb654%40abv.bg&mb_transaction_id=1099030789&currency=EUR&field1=&payment_type=WLT&mb_currency=BGN&rec_payment_type=on-demand&merchant_id=6999381&rec_payment_id=1099030793&mb_amount=77.450868&amount=39.60&transaction_id=11111&pay_from_email=mb123%40abv.bg2014-03-14 11:56:53
+*********************
+---------------------
+2014-03-14 13:28:32
+*********************
+---------------------
+2014-03-14 13:35:42
+*********************
+---------------------
+sha2sig=DDA7A5CA9D36B8B19BEF9AD622296BDA0E8FFB66C45E9412B283BDDD2BCA2904&status=2&md5sig=9E10B06CEA3220A141131E4AFAFDE73F&pay_to_email=mb654%40abv.bg&mb_transaction_id=1099108513&currency=EUR&field1=&payment_type=WLT&mb_currency=BGN&rec_payment_type=on-demand&merchant_id=6999381&rec_payment_id=1099108516&mb_amount=77.450868&amount=39.60&transaction_id=223333&pay_from_email=mb123%40abv.bg2014-03-14 13:36:37
+*********************
+---------------------
+2014-03-14 13:47:12
+*********************
+---------------------
+sha2sig=3368250AB622D2F86F8F0780AB610038B39056F53ED7F089F3D8AC542538D0AA&status=2&md5sig=1E1D60971A8C8D03CA25E5F1E349527C&pay_to_email=mb654%40abv.bg&mb_transaction_id=1099118485&currency=EUR&field1=&payment_type=WLT&mb_currency=BGN&rec_payment_type=on-demand&merchant_id=6999381&rec_payment_id=1099118488&mb_amount=77.450868&amount=39.60&transaction_id=1099118485&pay_from_email=mb123%40abv.bg2014-03-14 13:47:47
+*********************
+---------------------
+2014-03-14 13:52:27
+*********************
+---------------------
+sha2sig=28874DE727C2F8014F690681EB9A7AC1E635594E28CA7FBACF06E013CB04B5B1&status=2&md5sig=368C5C105D96BE8263739EA937D4FF6E&pay_to_email=mb654%40abv.bg&mb_transaction_id=1099122675&currency=EUR&field1=&payment_type=WLT&mb_currency=BGN&rec_payment_type=on-demand&merchant_id=6999381&rec_payment_id=1099122680&mb_amount=77.450868&amount=39.60&transaction_id=44444444&pay_from_email=mb123%40abv.bg2014-03-14 13:52:32
+*********************
+---------------------
+2014-03-14 13:55:00
+*********************
+---------------------
+rec_payment_type=on-demand&sha2sig=F94CD8D818CB533986C85806D18B4F25161B70CA9968E2EC572FD0A6BA28AAB0&status=2&rec_payment_id=1099122680&md5sig=CCEDF3FC8B7A2CA3C0528C6807E3AA45&merchant_id=6999381&pay_to_email=mb654%40abv.bg&mb_amount=97.7915&mb_transaction_id=1099124784&currency=EUR&amount=50&field1=&transaction_id=44444444&pay_from_email=mb123%40abv.bg&mb_currency=BGN2014-03-14 15:03:48
+*********************
+---------------------
+sha2sig=B02F49154EA87547A57A04452F44A75B601794A7D839DEE33E861BA49249F844&status=2&md5sig=44ECDC5BC9CA878895A580828F437AF1&pay_to_email=mb654%40abv.bg&mb_transaction_id=1099184655&currency=EUR&field1=&payment_type=WLT&mb_currency=BGN&rec_payment_type=on-demand&merchant_id=6999381&rec_payment_id=1099184658&mb_amount=77.450868&amount=39.60&transaction_id=122222&pay_from_email=mb123%40abv.bg2014-03-14 15:04:33
+*********************
+---------------------
+2014-03-14 15:11:25
+*********************
+---------------------
+2014-03-14 15:13:16
+*********************
+---------------------
+sha2sig=37F34299D4548A52E05EAE6295A3E1560A7411491D933B946FBB6FB4E82058BD&status=2&md5sig=20D44A07D8E34FE9E6E12A1079019682&merchant_id=6999381&mb_amount=60&mb_transaction_id=1099192332&email_data=&customer_id=&transaction_id=122222&mb_currency=BGN2014-03-14 15:41:44
+*********************
+---------------------
+sha2sig=28B6A41EE584BFD3516C31C3DBA192ACBC68FA50F3B8F9C898E85D116E95BB75&status=2&md5sig=D8ADAE1681378784A449AF6B5CA1CA96&pay_to_email=mb654%40abv.bg&mb_transaction_id=1099217694&currency=EUR&field1=&payment_type=WLT&mb_currency=BGN&rec_payment_type=on-demand&merchant_id=6999381&rec_payment_id=1099217697&mb_amount=77.450868&amount=39.60&transaction_id=122223&pay_from_email=mb123%40abv.bg2014-03-17 14:06:20
+*********************
+---------------------
+sha2sig=C497ABD11D01691EE6259B5F012E923462984C734E4563E66930EDBE26D103C7&status=2&md5sig=56A9071A4CB5009ED01C4D9D63B6E92C&pay_to_email=mb654%40abv.bg&mb_transaction_id=1101559275&currency=EUR&field1=&payment_type=WLT&mb_currency=BGN&rec_payment_type=on-demand&merchant_id=6999381&rec_payment_id=1101559278&mb_amount=77.450868&amount=39.60&transaction_id=09596&pay_from_email=mb123%40abv.bg2014-03-17 14:07:34
+*********************
+---------------------
+2014-03-17 14:49:53
+*********************
+---------------------
+sha2sig=89B23255EFAD8B94BFB81F20B53507E73CFB79404AB691FA03B9A92DB88D7EC1&status=2&md5sig=0B0298B8A7BC3053F3A7CB7918827785&pay_to_email=mb654%40abv.bg&mb_transaction_id=1101594260&currency=EUR&field1=&payment_type=WLT&mb_currency=BGN&rec_payment_type=on-demand&merchant_id=6999381&rec_payment_id=1101594263&mb_amount=77.450868&amount=39.60&transaction_id=0999&pay_from_email=mb123%40abv.bg2014-03-17 14:50:14
+*********************
+---------------------
+2014-03-17 14:50:22
+*********************
+---------------------
+2014-03-17 14:50:38
+*********************
+---------------------
+2014-03-17 14:53:52
+*********************
+---------------------
+rec_payment_type=on-demand&status=2&rec_payment_id=1101598095&md5sig=D0F26C3DBE5BCA35650DEB07B3B0D634&merchant_id=6999315&pay_to_email=mb123%40abv.bg&mb_amount=77.450868&mb_transaction_id=1101598093&currency=EUR&amount=39.60&field1=&customer_id=6999381&payment_type=WLT&transaction_id=0999&pay_from_email=mb654%40abv.bg&mb_currency=BGN2014-03-17 14:54:03
+*********************
+---------------------
+2014-03-17 14:55:55
+*********************
+---------------------
+rec_payment_type=on-demand&status=2&rec_payment_id=1101599783&md5sig=12F7D0382537F115B3B1D40A495F4F12&merchant_id=6999315&pay_to_email=mb123%40abv.bg&mb_amount=77.450868&mb_transaction_id=1101599781&currency=EUR&amount=39.60&field1=&customer_id=6999381&payment_type=WLT&transaction_id=09991&pay_from_email=mb654%40abv.bg&mb_currency=BGN2014-03-17 14:56:00
+*********************
+---------------------
+2014-03-17 14:56:03
+*********************
+---------------------
+2014-03-17 15:00:03
+*********************
+---------------------
+rec_payment_type=on-demand&status=2&rec_payment_id=1101603220&md5sig=49FB1B7A27E3EF05CAD83AAEE8D8DC09&merchant_id=6999315&pay_to_email=mb123%40abv.bg&mb_amount=77.450868&mb_transaction_id=1101603218&currency=EUR&amount=39.60&field1=&customer_id=6999381&payment_type=WLT&transaction_id=09992&pay_from_email=mb654%40abv.bg&mb_currency=BGN2014-03-17 16:34:29
+*********************
+---------------------
+sha2sig=E220B35529144EF5A602CA75E7E81800CEF5B511A5D69DB55CBC36325317FD33&status=2&md5sig=A6D5C3AB1501B0E362D2277EF543FDA0&pay_to_email=mb654%40abv.bg&mb_transaction_id=1101683940&currency=EUR&field1=&payment_type=WLT&mb_currency=BGN&rec_payment_type=on-demand&merchant_id=6999381&rec_payment_id=1101683943&mb_amount=77.450868&amount=39.60&transaction_id=09993&pay_from_email=mb123%40abv.bg2014-03-17 16:36:07
+*********************
+---------------------
+2014-03-17 16:38:58
+*********************
+---------------------
+sha2sig=E220B35529144EF5A602CA75E7E81800CEF5B511A5D69DB55CBC36325317FD33&status=2&md5sig=A6D5C3AB1501B0E362D2277EF543FDA0&pay_to_email=mb654%40abv.bg&mb_transaction_id=1101683940&currency=EUR&field1=&payment_type=WLT&mb_currency=BGN&rec_payment_type=on-demand&merchant_id=6999381&rec_payment_id=1101683943&mb_amount=77.450868&amount=39.60&transaction_id=09993&pay_from_email=mb123%40abv.bg2014-03-18 13:49:12
+*********************
+---------------------
+rec_payment_type=on-demand&status=2&rec_payment_id=1102362710&md5sig=252931181412DB3165D176DF69C1B882&merchant_id=6999315&pay_to_email=mb123%40abv.bg&mb_amount=77.450868&mb_transaction_id=1102362706&currency=EUR&amount=39.60&field1=&customer_id=6999381&payment_type=WLT&transaction_id=09996&pay_from_email=mb654%40abv.bg&mb_currency=BGN2014-03-18 13:55:02
+*********************
+---------------------
+rec_payment_type=on-demand&status=2&rec_payment_id=1102367054&md5sig=232B3BF2675D92FAB840A2FE7C19A465&merchant_id=6999315&pay_to_email=mb123%40abv.bg&mb_amount=77.450868&mb_transaction_id=1102367050&currency=EUR&amount=39.60&field1=&customer_id=6999381&payment_type=WLT&transaction_id=09999&pay_from_email=mb654%40abv.bg&mb_currency=BGN

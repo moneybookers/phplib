@@ -1,0 +1,60 @@
+{
+  "jsonrpc" : "2.0",
+  "method" : "createInvoice",
+  "params" : 
+      {
+ "identification" : {
+  "transactionid" : "MerchantAssignedID",
+  "qiwiuser" : "tel:+79299573794"
+ },
+ "payment" :{
+  "amount" : "245",
+  "currency" : "rub",
+                "descriptor" : "comment",
+                "lifetime" : "2"
+ },
+ "account" : {
+ 
+ },
+        "frontend" : {
+                "responseurl": "http://pancho.skrillbox.com/bernhard/response.json.php",
+                "successurl": "http://pancho.skrillbox.com/bernhard/response.json.php",
+                "errorurl" : "http://pancho.skrillbox.com/bernhard/response.json.php"
+        },
+ "customer" : {
+  "name" : {
+   "salutation" : "Mr",
+   "title" : "Dr",
+   "given" : "John",
+   "family" : "Doe",
+   "company" : "Skrill"
+  },
+  "address" : {
+   "street" : "Karl-Liebknecht-Strasse 5",
+   "zip" : "10117",
+   "city" : "Berlin",
+   "state" : "BE",
+   "country" : "DE"
+  },
+  "contact" : {
+                        "phone" : "+49 30 234 14 23",
+   "mobile" : "+49 172 931 44 01",
+   "email" : "info@info.de",
+   "ip" : "127.0.0.1"
+  }
+ },
+ "merchant" : {
+  "key0" : "Value0",
+  "key1" : "Value1",
+  "key2" : "Value2",
+  "key3" : "Value3",
+  "key4" : "Value4",
+  "key5" : "Value5",
+  "key6" : "Value6",
+  "key7" : "Value7",
+  "key8" : "Value8",
+  "key9" : "Value9"
+ }
+    },
+  "id" : 1
+} 

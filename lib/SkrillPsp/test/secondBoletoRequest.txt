@@ -1,0 +1,46 @@
+{
+  "jsonrpc" : "2.0",
+  "method" : "createBoleto",
+  "params" :
+  {
+    "identification" : {
+      "transactionid" : "MerchantAssignedID",
+      "customerid" : "customerid 12345"
+    },
+    "payment" :{
+      "amount" : "1200",
+      "currency" : "BRL",
+      "country" : "BR",
+      "descriptor" : "asdf"
+    },
+    "account":{
+      "fiscal_id" : "28001238938"
+    },
+    "frontend" : {
+      "language" : "EN",
+      "responseurl": "https://pancho.skrillbox.com/bernhard/response.json.php",
+      "successurl": "http://www.ibm.com",
+      "errorurl" : "http://www.google.com",
+      "cancelurl" : "http://www.yahoo.com"
+    },
+    "customer" : {
+      "contact" : {
+        "email" : "hansi_mueller123@skrill.com",
+        "ip" : "127.0.0.1"
+      }
+    },
+    "merchant" : {
+      "key0" : "Value0",
+      "key1" : "Value1",
+      "key2" : "Value2",
+      "key3" : "Value3",
+      "key4" : "Value4",
+      "key5" : "Value5",
+      "key6" : "Value6",
+      "key7" : "Value7",
+      "key8" : "Value8",
+      "key9" : "Value9"
+    }
+  },
+  "id" : 1
+}

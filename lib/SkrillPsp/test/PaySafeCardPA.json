@@ -1,0 +1,60 @@
+endpoint - https://api.nextgenp.com/merchants/zmcdptfj8kv9fwhj/testchannel_psc/paysafecard
+
+{
+    "jsonrpc": "2.0",
+    "method": "preauthorization",
+    "params": {
+        "identification": {
+            "transactionid": "",
+            "customerid": ""
+        },
+        "payment": {
+            "amount": "990",
+            "currency": "chf"
+        },
+        "account": {
+            "kyclevel": "document",
+            "country_restriction": "GB"
+        },
+        "frontend": {
+            "responseurl": "www.google.com",
+            "successurl": "http://www.yahoo.com",
+            "errorurl": "http://www.hotmail.com"
+        },
+        "customer": {
+            "name": {
+                "salutation": "Mr",
+                "title": "Dr",
+                "given": "Fist",
+                "family": "Sur Name",
+                "company": "Skrill"
+            },
+            "address": {
+                "street": "12 Some Street-Carlos",
+                "zip": "1234",
+                "city": "aa",
+                "state": "asdf ghj",
+                "country": "Da"
+            },
+            "contact": {
+                "phone": "",
+                "mobile": "",
+                "email": "as_df@info.com",
+                "ip": "127.0.0.1"
+            }
+        },
+        "merchant": {
+            "key0": "Value0",
+            "key1": "Value1",
+            "key2": "Value2",
+            "key3": "Value3",
+            "key4": "Value4",
+            "key5": "Value5",
+            "key6": "Value6",
+            "key7": "Value7",
+            "key8": "Value8",
+            "key9": "Value9"
+        }
+    },
+    "id": 1
+}

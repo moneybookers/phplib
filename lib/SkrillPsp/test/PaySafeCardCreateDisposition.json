@@ -1,0 +1,57 @@
+endpoint - https://psp.dev.skrillws.net/v1/json/3e40a821/channelid_psc_psp/paysafecard
+
+{
+  "jsonrpc" : "2.0",
+  "method" : "createDisposition",
+  "params" : 
+      {
+		"identification" : {
+		"transactionid" : "MerchantAssignedID",
+		"customerid" : "customerid 12345"
+	},
+		"payment" :{
+		"amount" : "10",
+		"currency" : "eur"
+	},
+	"account" : {
+				"locale" : "de_de",
+                "kyclevel" : "simple",
+                "language" : "de",
+                "minage" : "18",
+                "shopid" : "shopid",
+                "shoplable" : "lable",
+                "country" : "DE"
+	},
+    "frontend" : {
+                "responseurl": "http://pancho.skrillbox.com/bernhard/response.php",
+                "successurl": "http://www.ibm.com",
+                "errorurl" : "http://www.error.com"
+    },
+	"customer" : {
+		"name" : {
+			"salutation" : "Mr",
+			"title" : "Dr",
+			"given" : "John",
+			"family" : "Doe",
+			"company" : "Skrill"
+		},
+		"address" : {
+			"street" : "Karl-Liebknecht-Strasse 5",
+			"zip" : "10117",
+			"city" : "Berlin",
+			"state" : "BE",
+			"country" : "DE"
+		},
+		"contact" : {
+             "phone" : "+49 30 234 14 23",
+			 "mobile" : "+49 172 931 44 01",
+			 "email" : "info@info.de",
+			 "ip" : "127.0.0.1"
+       }
+   },
+	"merchant" : {
+		"key0" : "Value0"
+	 }
+   },
+    "id" : 1
+}

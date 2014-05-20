@@ -1,0 +1,75 @@
+endpoint - https://psp.dev.skrillws.net/v1/json/3e40a821/channelid_skrillwallet/skrillwallet
+
+{
+   "jsonrpc":"2.0",
+   "method":"preauthorization",
+   "params":{
+      "identification":{
+         "transactionid":"123",
+         "customerid":""
+      },
+      "payment":{
+         "amount":"01",
+         "currency":"EUR",
+         "descriptor":"",
+         "amount_description2":"",
+         "amount2":""
+      },
+      "account":{
+         "paysource":"wallet"
+      },
+      "frontend":{
+         "responseurl":"http://pancho.skrillbox.com/bernhard/response.php",
+         "successurl":"http://pancho.skrillbox.com/bernhard/response.php",
+         "successurl_url_text":"",
+         "successurl_url_target":"",
+         "errorurl":"http://pancho.skrillbox.com/bernhard/response.php",
+         "errorurl_url_target":"",
+         "new_window_redirect":"",
+         "language":"DE",
+         "hide_login":"",
+         "confirmation_note":"",
+         "logo_url":"",
+         "rid":"",
+         "ext_ref_id":"",
+         "payment_methods":"",
+         "detail_description1":"detail description",
+         "detail_text1":"detail text"
+      },
+      "customer":{
+         "name":{
+            "salutation":"",
+            "title":"",
+            "firstname":"Yogi",
+            "lastname":"yogi",
+            "company":""
+         },
+         "address":{
+            "street":"Street Yogi",
+            "zip":"10117",
+            "city":"Berlin",
+            "state":"",
+            "country":"DE"
+         },
+         "contact":{
+            "phone":"",
+            "mobile":"",
+            "email":"info@info.de",
+            "ip":"127.0.0.1"
+         }
+      },
+      "merchant":{
+         "key0":"Value0",
+         "key1":"Value1",
+         "key2":"Value2",
+         "key3":"Value3",
+         "key4":"Value4",
+         "key5":"Value5",
+         "key6":"Value6",
+         "key7":"Value7",
+         "key8":"Value8",
+         "key9":"Value9"
+      }
+   },
+   "id":1
+}

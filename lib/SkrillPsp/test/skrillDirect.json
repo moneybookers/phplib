@@ -1,0 +1,66 @@
+endpoints - http://yws1-puma.neterra.moneybookers.net:8080/v1/json/3e40a821/channelid_skrilldirect/skrilldirect 
+			https://psp.dev.skrillws.net/v1/json/3e40a821/channelid_skrilldirect/skrilldirect
+
+{
+    "jsonrpc": "2.0",
+    "method": "preauthorization",
+    "params": {
+        "identification": {
+            "transactionid": "transactionID",
+            "customerid": "customerID"
+        },
+        "payment": {
+            "amount": "10",
+            "currency": "EUR",
+            "descriptor": "desc",
+            "recipient": "Bet"
+        },
+        "account": {
+            "holder": "John doe",
+            "accountnumber": "123456",
+            "routingnumber": "123405",
+            "country": "UK"
+        },
+        "frontend": {
+            "successurl": "http://successurl.com",
+            "errorurl": "http://errorurl.com",
+            "responseurl": "http://responseurl.com",
+            "language": "as"
+        },
+        "customer": {
+            "name": {
+                "salutation": "Dr",
+                "title": "Dr",
+                "firstname": "Yogii",
+                "lastname": "Yogi",
+                "company": "Skrill"
+            },
+            "address": {
+                "street": "Karl-Liebknecht-Strasse 5",
+                "zip": "12",
+                "city": "Berlin",
+                "state": "BEasdea",
+                "country": "DE"
+            },
+            "contact": {
+                "phone": "+49 30 234 14 23",
+                "mobile": "+49 172 931 44 01",
+                "email": "info_12'34@info.de",
+                "ip": "123"
+            }
+        },
+        "merchant": {
+            "key0": "Value0",
+            "key1": "Value1",
+            "key2": "Value2",
+            "key3": "Value3",
+            "key4": "Value4",
+            "key5": "Value5",
+            "key6": "Value6",
+            "key7": "Value7",
+            "key8": "Value8",
+            "key9": "Value9"
+        }
+    },
+    "id": 1
+}

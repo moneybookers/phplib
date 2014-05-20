@@ -1,0 +1,44 @@
+endpoint - https://api.nextgenp.com/merchants/zmcdptfj8kv9fwhj/testchannel_envoy/envoy
+
+{
+  "jsonrpc" : "2.0",
+  "method" : "createMultibanco",
+  "params" :
+  {
+    "identification" : {
+      "transactionid" : "MerchantAssignedID",
+      "customerid" : "asdf"
+    },
+    "payment" :{
+      "amount" : "500",
+      "currency" : "eur",
+      "country" : "pt",
+      "descriptor" : "descriptor"
+    },
+    "frontend" : {
+      "language" : "en",
+      "responseurl": "http://pancho.skrillbox.com/bernhard/response.json.php",
+      "successurl": "http://www.ibm.com",
+      "errorurl" : "http://www.google.com"
+    },
+    "customer" : {
+      "contact" : {
+        "email" : "hansi_mueller123@skrill.com",
+        "ip" : "127.0.0.1"
+      }
+    },
+    "merchant" : {
+      "key0" : "Value0",
+      "key1" : "Value1",
+      "key2" : "Value2",
+      "key3" : "Value3",
+      "key4" : "Value4",
+      "key5" : "Value5",
+      "key6" : "Value6",
+      "key7" : "Value7",
+      "key8" : "Value8",
+      "key9" : "Value9"
+    }
+  },
+  "id" : 1
+}

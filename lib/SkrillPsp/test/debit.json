@@ -1,0 +1,54 @@
+{
+"jsonrpc" : "2.0",
+"method" : "debit",
+"params" :
+ {
+  "identification" : {
+  "transactionid" : "mustb",
+  "customerid" : "customerid json"
+  },
+  "payment" :{
+  "amount" : "107",
+  "currency" : "eur",
+  "descriptor" : "desc"
+  },
+  "response" : "",
+  "account" : {
+  "token" : "e2d54fe12a41403fa32d95b6cf4788f7"
+  },
+  "customer" : {
+   "name" : {
+    "salutation" : "Mr",
+    "given" : "Yogendra",
+    "family" : "Paladugu",
+    "company" : "Yogi"
+    },
+    "address" : {
+    "street" : "Street",
+    "zip" : "Zip",
+    "city" : "City",
+    "state" : "State",
+    "country" : "Cy"
+    },
+    "contact" : {
+    "phone" : "0987654321",
+    "mobile" : "1234567890",
+    "email" : "devnull.yogi@sun-fish.com",
+    "ip" : "127.0.0.1"
+    }
+  },
+  "merchant" : {
+    "key0" : "Value0",
+    "key1" : "Value1",
+    "key2" : "Value2",
+    "key3" : "Value3",
+    "key4" : "Value4",
+    "key5" : "Value5",
+    "key6" : "Value6",
+    "key7" : "Value7",
+    "key8" : "Value8",
+    "key9" : "Value9"
+    }
+  },
+"id" : 1
+}
