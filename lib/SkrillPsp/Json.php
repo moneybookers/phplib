@@ -1027,13 +1027,15 @@ ONETABREGISTER;
 						   "customerid" : ""
 	                },
 					"payment" : {
-            			 "amount": "",   
-            			 "currency" : "",
-            			 "descriptor" : ""
+                                                    "amount": "",   
+                                                    "currency" : "",
+                                                    "descriptor" : ""
                    },
                    "account" : {
-                          "token" : ""
-                   }
+                          "token" : "",
+                         "username": "",
+                         "password": ""
+                   }         
                 },
                 "id" : ""
              }
